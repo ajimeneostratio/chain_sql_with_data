@@ -1,3 +1,3 @@
 ## GenAI Chain SQL
 
-This repository contains an evalutation for SQL Chain
+This repository contains a SQL Chain evolved (anoymization and fuzzy retrieval from OpenSearch)
